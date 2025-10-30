@@ -24,4 +24,4 @@ This project aims to provide an innovative way to present a professional portfol
 - Use the arrow keys or WASD to move around the room.
 - Click on objects to learn more about my work and experiences.
 
-- Note: I am still working on blender to improve and integrate my 3d models in the room and will have the completed project posted on June 11 2024.
+- Note: I am still working on blender to improve and integrate my 3d models in the room and will have the completed project posted on June 11 2025.
